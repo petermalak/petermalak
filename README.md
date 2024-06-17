@@ -8,6 +8,8 @@ I'm an experienced Full Stack Web Developer with a strong background in creating
 
 💬 Feel free to reach out if you have any questions about PHP, Laravel, Java EE, Spring Boot, React, Angular, Vue.js, Node.js, or anything related to web development!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=petermalak)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📫 How to reach me:
 
 - **LinkedIn**: [Peter Malak](https://linkedin.com/in/peter-malak-b8860b189)
@@ -110,3 +112,9 @@ I'm an experienced Full Stack Web Developer with a strong background in creating
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/petermalak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-malak-b8860b189)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/petermalak/)
+
+
+## GitHub Stats
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=petermalak&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petermalak&layout=compact&theme=radical)
